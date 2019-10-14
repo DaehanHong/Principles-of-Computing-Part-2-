@@ -1,0 +1,25 @@
+n 
+2
+
+nlog(n) comparisons
+
+n
+
+The first element pushed onto the stack is the last element popped off of the stack.
+The last element pushed onto the stack is the first element popped off of the stack.
+
+The first element enqueued into the queue is the first element dequeued out of the queue.
+The last element enqueued into the queue is the last element dequeued out of the queue.
+
+up = (row - 1) % self._grid_height
+down = (row + 1) % self._grid_height
+left = (col - 1) % self._grid_width
+right = (col + 1) % self._grid_width
+return [[up, col], [down, col], [row, left], [row, right]]
+
+if self.is_empty(neighbor[0], neighbor[1]):
+
+m n
+
+77
+

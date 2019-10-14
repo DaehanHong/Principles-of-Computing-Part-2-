@@ -1,0 +1,24 @@
+4123
+5967
+
+urullddruld
+
+3
+
+rdlu
+
+drul         0312 urdlurrdluldrruld rdlurdlu
+
+8123
+9647
+4172
+8693
+
+assert my_puzzle.lower_row_invariant(i, 0)
+my_puzzle.solve_col0_tile(i)
+assert my_puzzle.lower_row_invariant(i - 1, n -1)
+lddruld
+
+ruldrdlurdluurddlur
+
+urdlurrdluldrruld
